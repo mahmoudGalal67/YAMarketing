@@ -245,8 +245,8 @@ nav .navbar .links li:hover .Specialties-sub-menu {
   cursor: pointer;
   font-size: 35px;
   position: absolute;
-  top: 12px;
-  right: 25px;
+  top: -72px;
+  right: 3px;
 }
 
 .navbar .bx-menu {
