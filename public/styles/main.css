@@ -48,7 +48,7 @@ section.served h2 {
 }
 
 section.served h2::after {
-  content: url(../images/home/square.png);
+  content: url(../images/home/square.webp);
   position: absolute;
   width: 80%;
   height: 120%;
@@ -360,7 +360,7 @@ section.portfolio.gallary .wrapper-gallary > img {
 /* main-banner-section */
 
 main.main-banner {
-  background: url(../images/blog/Group\ 1000004670.png);
+  background: url(../images/blog/Group\ 1000004670.webp);
   background-position: center;
   background-size: cover;
   min-height: 100vh;
@@ -502,7 +502,7 @@ section.blog-gallary .wrapper .item .details .desc p {
 /* main-banner-section */
 
 main.main-banner {
-  background: url(../images/contact/Group\ 1000004671.png);
+  background: url(../images/contact/Group\ 1000004671.webp);
   background-position: center;
   background-size: cover;
 }
@@ -575,7 +575,7 @@ section.contact-form form > p {
 
 /* main-banner-section */
 main.main-banner.services {
-  background: url(../images/services/Group\ 1000004671.png);
+  background: url(../images/services/Group\ 1000004671.webp);
   background-position: center;
   background-size: cover;
 }
